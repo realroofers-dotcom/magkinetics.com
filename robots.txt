@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://magkinetics.com/sitemap.xml
